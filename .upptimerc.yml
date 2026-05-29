@@ -41,7 +41,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ASDev-Official/weatherfast/refs/heads/main/web/android-chrome-512x512.png
   theme: "ocean"
-  name: ""
+  name: "WeatherFast Status"
   introTitle: ""
   introMessage: ""
 
