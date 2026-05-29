@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/geocoding-api.open-meteo.com.ico",
     "slug": "api-global-geocoding-api",
     "status": "down",
-    "uptime": "40.23%",
-    "uptimeDay": "40.23%",
-    "uptimeWeek": "40.23%",
-    "uptimeMonth": "40.23%",
-    "uptimeYear": "40.23%",
+    "uptime": "30.64%",
+    "uptimeDay": "30.64%",
+    "uptimeWeek": "30.64%",
+    "uptimeMonth": "30.64%",
+    "uptimeYear": "30.64%",
     "time": 575,
     "timeDay": 575,
     "timeWeek": 575,
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2026-05-29": 0
+      "2026-05-29": 1
     }
   },
   {
