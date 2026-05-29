@@ -5,10 +5,12 @@ repo: weatherfast-status-monitor # The name of this repository
 sites:
   - name: WeatherFast Website
     url: https://weatherfast.aadish.dev
+    
   - name: API - Notifications
     url: https://api.weatherfast.aadish.dev
+    
   - name: "API - SG - Two Hour Forecast"
-  url: "https://api.weatherfast.aadish.dev/api/sg/two-hour-forecast"
+    url: "https://api.weatherfast.aadish.dev/api/sg/two-hour-forecast"
 
   - name: "API - SG - Twenty Four Hr Forecast"
     url: "https://api.weatherfast.aadish.dev/api/sg/twenty-four-hr-forecast"
