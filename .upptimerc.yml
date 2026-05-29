@@ -9,19 +9,19 @@ sites:
   - name: "API - Notifications"
     url: "https://api.weatherfast.aadish.dev"
 
-  - name: "API - Global - Geocoding Api"
-    url: "https://geocoding-api.open-meteo.com/v1/search"
+  - name: "API - Global - Geocoding API"
+    url: "https://geocoding-api.open-meteo.com/v1/search?name=Berlin&count=10&language=en&format=json"
   
-  - name: "API - Global - Api"
+  - name: "API - Global - Weather"
     url: "https://api.open-meteo.com/v1/forecast"
   
-  - name: "API - Global - Air Quality Api"
+  - name: "API - Global - Air Quality"
     url: "https://air-quality-api.open-meteo.com/v1/air-quality"
     
   - name: "API - SG - Two Hour Forecast"
     url: "https://api.weatherfast.aadish.dev/api/sg/two-hour-forecast"
 
-  - name: "API - SG - Twenty Four Hr Forecast"
+  - name: "API - SG - Twenty Four Hour Forecast"
     url: "https://api.weatherfast.aadish.dev/api/sg/twenty-four-hr-forecast"
   
   - name: "API - SG - Four Day Forecast"
@@ -39,7 +39,7 @@ sites:
   - name: "API - SG - Wind Speed"
     url: "https://api.weatherfast.aadish.dev/api/sg/wind-speed"
   
-  - name: "API - SG - Psi"
+  - name: "API - SG - PSI"
     url: "https://api.weatherfast.aadish.dev/api/sg/psi"
   
   - name: "API - SG - Flood Alerts"
