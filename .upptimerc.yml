@@ -13,15 +13,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: weatherfast-status.aadish.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/ASDev-Official/weatherfast/refs/heads/main/web/android-chrome-512x512.png
+  theme: "ocean"
   name: WeatherFast Status
   introTitle: "WeatherFast Status Page"
   introMessage: ""
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/ASDev-Official/WeatherFast
 
 i18n:
   footer: ""
