@@ -5,8 +5,34 @@ repo: weatherfast-status-monitor # The name of this repository
 sites:
   - name: WeatherFast Website
     url: https://weatherfast.aadish.dev
-  - name: WeatherFast API
+  - name: API - Notifications
     url: https://api.weatherfast.aadish.dev
+  - name: "API - SG - Two Hour Forecast"
+  url: "https://api.weatherfast.aadish.dev/api/sg/two-hour-forecast"
+
+  - name: "API - SG - Twenty Four Hr Forecast"
+    url: "https://api.weatherfast.aadish.dev/api/sg/twenty-four-hr-forecast"
+  
+  - name: "API - SG - Four Day Forecast"
+    url: "https://api.weatherfast.aadish.dev/api/sg/four-day-forecast"
+  
+  - name: "API - SG - Air Temperature"
+    url: "https://api.weatherfast.aadish.dev/api/sg/air-temperature"
+  
+  - name: "API - SG - Rainfall"
+    url: "https://api.weatherfast.aadish.dev/api/sg/rainfall"
+  
+  - name: "API - SG - Relative Humidity"
+    url: "https://api.weatherfast.aadish.dev/api/sg/relative-humidity"
+  
+  - name: "API - SG - Wind Speed"
+    url: "https://api.weatherfast.aadish.dev/api/sg/wind-speed"
+  
+  - name: "API - SG - Psi"
+    url: "https://api.weatherfast.aadish.dev/api/sg/psi"
+  
+  - name: "API - SG - Flood Alerts"
+    url: "https://api.weatherfast.aadish.dev/api/sg/flood-alerts"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,12 +41,9 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ASDev-Official/weatherfast/refs/heads/main/web/android-chrome-512x512.png
   theme: "ocean"
-  name: WeatherFast Status
-  introTitle: "WeatherFast Status Page"
+  name: ""
+  introTitle: ""
   introMessage: ""
-  navbar:
-    - title: Status
-      href: /
 
 i18n:
   footer: ""
