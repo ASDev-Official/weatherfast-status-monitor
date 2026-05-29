@@ -10,13 +10,13 @@ sites:
     url: "https://api.weatherfast.aadish.dev"
 
   - name: "API - Global - Geocoding Api"
-     url: "https://geocoding-api.open-meteo.com/v1/search"
+    url: "https://geocoding-api.open-meteo.com/v1/search"
   
   - name: "API - Global - Api"
-     url: "https://api.open-meteo.com/v1/forecast"
+    url: "https://api.open-meteo.com/v1/forecast"
   
   - name: "API - Global - Air Quality Api"
-     url: "https://air-quality-api.open-meteo.com/v1/air-quality"
+    url: "https://air-quality-api.open-meteo.com/v1/air-quality"
     
   - name: "API - SG - Two Hour Forecast"
     url: "https://api.weatherfast.aadish.dev/api/sg/two-hour-forecast"
