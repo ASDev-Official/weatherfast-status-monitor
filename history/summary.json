@@ -60,9 +60,9 @@
     "url": "https://api.open-meteo.com/v1/forecast",
     "icon": "https://icons.duckduckgo.com/ip3/api.open-meteo.com.ico",
     "slug": "api-global-weather",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 528,
     "timeMonth": 551,
     "timeYear": 536,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-03": 0
+    }
   },
   {
     "name": "API - Global - Air Quality",
