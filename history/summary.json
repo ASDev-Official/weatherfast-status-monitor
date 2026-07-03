@@ -60,19 +60,19 @@
     "url": "https://api.open-meteo.com/v1/forecast",
     "icon": "https://icons.duckduckgo.com/ip3/api.open-meteo.com.ico",
     "slug": "api-global-weather",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 748,
-    "timeWeek": 528,
-    "timeMonth": 551,
-    "timeYear": 536,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "87.78%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.65%",
+    "time": 544,
+    "timeDay": 782,
+    "timeWeek": 564,
+    "timeMonth": 560,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2026-07-03": 0
+      "2026-07-03": 176
     }
   },
   {
