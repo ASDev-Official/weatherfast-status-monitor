@@ -135,19 +135,19 @@
     "url": "https://api.weatherfast.aadish.dev/api/sg/four-day-forecast",
     "icon": "https://icons.duckduckgo.com/ip3/api.weatherfast.aadish.dev.ico",
     "slug": "api-sg-four-day-forecast",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.72%",
-    "time": 827,
-    "timeDay": 392,
-    "timeWeek": 797,
-    "timeMonth": 815,
-    "timeYear": 827,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "69.27%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.21%",
+    "time": 837,
+    "timeDay": 700,
+    "timeWeek": 855,
+    "timeMonth": 831,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2026-07-07": 156
+      "2026-07-07": 442
     }
   },
   {
