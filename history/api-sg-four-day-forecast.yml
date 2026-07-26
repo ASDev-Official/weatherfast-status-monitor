@@ -1,7 +1,7 @@
 url: https://api.weatherfast.aadish.dev/api/sg/four-day-forecast
-status: down
-code: 404
-responseTime: 601
-lastUpdated: 2026-07-26T03:50:37.022Z
+status: up
+code: 200
+responseTime: 1129
+lastUpdated: 2026-07-26T08:42:38.729Z
 startTime: 2026-05-29T14:46:30.971Z
 generator: Upptime <https://github.com/upptime/upptime>
