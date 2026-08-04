@@ -1,7 +1,7 @@
 url: https://api.open-meteo.com/v1/forecast
 status: up
 code: 200
-responseTime: 403
-lastUpdated: 2026-08-04T00:03:56.605Z
+responseTime: 650
+lastUpdated: 2026-08-04T23:58:30.834Z
 startTime: 2026-05-29T15:05:34.410Z
 generator: Upptime <https://github.com/upptime/upptime>
