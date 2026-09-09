@@ -13,7 +13,7 @@
     "time": 214,
     "timeDay": 163,
     "timeWeek": 270,
-    "timeMonth": 213,
+    "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 168,
     "timeDay": 178,
     "timeWeek": 213,
-    "timeMonth": 169,
+    "timeMonth": 171,
     "timeYear": 168,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 532,
     "timeDay": 626,
     "timeWeek": 600,
-    "timeMonth": 554,
+    "timeMonth": 558,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2026-05-29": 6
@@ -61,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.open-meteo.com.ico",
     "slug": "api-global-weather",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 553,
     "timeDay": 700,
     "timeWeek": 618,
-    "timeMonth": 549,
+    "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2026-07-03": 261,
@@ -90,7 +90,7 @@
     "time": 493,
     "timeDay": 563,
     "timeWeek": 536,
-    "timeMonth": 507,
+    "timeMonth": 511,
     "timeYear": 493,
     "dailyMinutesDown": {}
   },
@@ -108,7 +108,7 @@
     "time": 1007,
     "timeDay": 114,
     "timeWeek": 805,
-    "timeMonth": 628,
+    "timeMonth": 648,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2026-07-07": 127
@@ -128,7 +128,7 @@
     "time": 761,
     "timeDay": 158,
     "timeWeek": 967,
-    "timeMonth": 535,
+    "timeMonth": 547,
     "timeYear": 761,
     "dailyMinutesDown": {}
   },
@@ -137,20 +137,21 @@
     "url": "https://api.weatherfast.aadish.dev/api/sg/four-day-forecast",
     "icon": "https://icons.duckduckgo.com/ip3/api.weatherfast.aadish.dev.ico",
     "slug": "api-sg-four-day-forecast",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
-    "time": 758,
-    "timeDay": 128,
-    "timeWeek": 876,
-    "timeMonth": 504,
-    "timeYear": 758,
+    "uptimeYear": "99.42%",
+    "time": 755,
+    "timeDay": 309,
+    "timeWeek": 828,
+    "timeMonth": 519,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2026-07-07": 569,
-      "2026-07-26": 292
+      "2026-07-26": 292,
+      "2026-09-09": 0
     }
   },
   {
@@ -167,7 +168,7 @@
     "time": 2325,
     "timeDay": 1630,
     "timeWeek": 1298,
-    "timeMonth": 2068,
+    "timeMonth": 2133,
     "timeYear": 2325,
     "dailyMinutesDown": {}
   },
@@ -185,7 +186,7 @@
     "time": 2464,
     "timeDay": 1908,
     "timeWeek": 1859,
-    "timeMonth": 2268,
+    "timeMonth": 2341,
     "timeYear": 2464,
     "dailyMinutesDown": {}
   },
@@ -203,7 +204,7 @@
     "time": 2288,
     "timeDay": 184,
     "timeWeek": 955,
-    "timeMonth": 2023,
+    "timeMonth": 2090,
     "timeYear": 2288,
     "dailyMinutesDown": {}
   },
@@ -221,7 +222,7 @@
     "time": 2374,
     "timeDay": 173,
     "timeWeek": 859,
-    "timeMonth": 2039,
+    "timeMonth": 2106,
     "timeYear": 2374,
     "dailyMinutesDown": {}
   },
@@ -239,7 +240,7 @@
     "time": 938,
     "timeDay": 137,
     "timeWeek": 1080,
-    "timeMonth": 774,
+    "timeMonth": 799,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2026-07-07": 125
@@ -259,7 +260,7 @@
     "time": 1341,
     "timeDay": 1211,
     "timeWeek": 1358,
-    "timeMonth": 1242,
+    "timeMonth": 1282,
     "timeYear": 1341,
     "dailyMinutesDown": {}
   }
