@@ -1,7 +1,7 @@
 url: https://geocoding-api.open-meteo.com/v1/search?name=Berlin&count=10&language=en&format=json
 status: up
 code: 200
-responseTime: 409
-lastUpdated: 2026-11-03T03:48:41.107Z
+responseTime: 615
+lastUpdated: 2026-11-04T02:51:44.891Z
 startTime: 2026-05-29T14:59:10.238Z
 generator: Upptime <https://github.com/upptime/upptime>
